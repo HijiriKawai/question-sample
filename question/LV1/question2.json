@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "title": "演算子",
+  "description": "変数a,bをそれぞれ100と30で初期化し、加算、減算、乗算、除算、剰余を求めよ",
+  "defaultCode": "console.log(\"Hello\");",
+  "testCases": [],
+  "assertions": [],
+  "tags": ""
+}
