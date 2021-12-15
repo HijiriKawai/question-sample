@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "title": "文字列を整数にする",
+  "description": "用意されたstringの変数a,bを整数に変換し、足し算を行え。",
+  "defaultCode": "const a = \"43\"\nconst b = \"32\"",
+  "testCases": [],
+  "assertions": [],
+  "tags": ""
+}
