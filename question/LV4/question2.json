@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "title": "条件分岐2",
+  "description": "二つの変数を受け取り、大きい方の値を返す関数を作成せよ。",
+  "defaultCode": "",
+  "testCases": [],
+  "assertions": [],
+  "tags": ""
+}

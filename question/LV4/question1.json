@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "title": "条件分岐1",
+  "description": "一つの引数を受け取り、その値が奇数なら\"odd\"という文字列を返し、偶数なら\"even\"という文字列を返す関数を作成せよ。",
+  "defaultCode": "",
+  "testCases": [],
+  "assertions": [],
+  "tags": ""
+}
