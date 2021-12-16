@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "title": "object",
+  "description": "idとnameとageをプロパティとして持つオブジェクトの配列を引数として受け取り、ageが18以上のオブジェクトを取り出し、idをkey、nameをvalueとするmapを返す関数を作成せよ。",
+  "defaultCode": "",
+  "testCases": [],
+  "assertions": [],
+  "tags": ""
+}

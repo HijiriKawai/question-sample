@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "title": "コンストラクタ",
+  "description": "プロパティとしてidとnameとageを持つオブジェクトHumanのコンストラクタを作成せよ。",
+  "defaultCode": "",
+  "testCases": [],
+  "assertions": [],
+  "tags": ""
+}
