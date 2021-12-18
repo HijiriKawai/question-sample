@@ -1,9 +1,10 @@
 {
   "id": "",
   "title": "総和",
-  "description": "配列を一つ引数として受け取り、その配列の値の総和を求める関数を作成せよ。",
+  "description": "配列を一つ引数として受け取り、その配列の値の総和を求める関数for文を用いて作成せよ。",
   "defaultCode": "",
   "testCases": [],
   "assertions": [],
   "tags": ""
 }
+
