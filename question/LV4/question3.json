@@ -1,7 +1,7 @@
 {
   "id": "",
   "title": "1~100までの合計",
-  "description": "1~100までの合計を返す関数をswitch文を用いて作成せよ。",
+  "description": "1~100までの合計をswitch文を用いて求め、出力せよ。",
   "defaultCode": "",
   "testCases": [],
   "assertions": [],

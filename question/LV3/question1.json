@@ -1,10 +1,9 @@
 {
   "id": "",
   "title": "条件分岐1",
-  "description": "一つの引数を受け取り、その値が奇数なら\"odd\"という文字列を返し、偶数なら\"even\"という文字列を返す関数をif文を用いて作成せよ。",
-  "defaultCode": "",
+  "description": "if文を用いて与えられた変数が奇数なら\"odd\"という文字列を出力し、偶数なら\"even\"という文字列を出せよ。",
+  "defaultCode": "const a = 123412",
   "testCases": [],
   "assertions": [],
   "tags": ""
 }
-

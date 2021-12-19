@@ -1,10 +1,9 @@
 {
   "id": "",
   "title": "総和",
-  "description": "配列を一つ引数として受け取り、その配列の値の総和を求める関数for文を用いて作成せよ。",
-  "defaultCode": "",
+  "description": "宣言された配列の値の総和をfor文を用いて求め、結果を出力せよ。",
+  "defaultCode": "const a = [1, 10, 23, 21, 32, 54, 34, 43]",
   "testCases": [],
   "assertions": [],
   "tags": ""
 }
-
