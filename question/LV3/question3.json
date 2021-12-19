@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "title": "条件分岐3",
+  "description": "3の倍数ならFizz、5の倍数ならBuzz、両方とも満たすならFizzBuzz、それ以外は数値を文字列として返す関数をswitch文を用いて作成せよ。",
+  "defaultCode": "",
+  "testCases": [],
+  "assertions": [],
+  "tags": ""
+}
