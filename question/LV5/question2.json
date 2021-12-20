@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "title": "最大公約数と最小公倍数",
+  "description": "引数を二つ受け取り、その最大公約数と最小公倍数を求める関数を作成せよ。",
+  "defaultCode": "",
+  "testCases": [],
+  "assertions": [],
+  "tags": ""
+}

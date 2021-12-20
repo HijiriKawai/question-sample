@@ -1,7 +1,7 @@
 {
   "id": "",
-  "title": "1~100までの合計",
-  "description": "1~100までの合計を返す関数をswitch文を用いて作成せよ。",
+  "title": "条件分岐3",
+  "description": "3の倍数ならFizz、5の倍数ならBuzz、両方とも満たすならFizzBuzz、それ以外は数値を文字列として返す関数をswitch文を用いて作成せよ。",
   "defaultCode": "",
   "testCases": [],
   "assertions": [],

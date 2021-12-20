@@ -1,9 +1,10 @@
 {
   "id": "",
-  "title": "最大公約数と最小公倍数",
-  "description": "引数を二つ受け取り、その最大公約数と最小公倍数を求める関数を作成せよ。",
+  "title": "条件分岐2",
+  "description": "二つの変数を受け取り、大きい方の値を返す関数をif文を用いて作成せよ。",
   "defaultCode": "",
   "testCases": [],
   "assertions": [],
   "tags": ""
 }
+
