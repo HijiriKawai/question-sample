@@ -1,8 +1,8 @@
 {
   "id": "",
   "title": "最大公約数と最小公倍数",
-  "description": "二つの変数の最大公約数と最小公倍数を求め、結果を出力せよ",
-  "defaultCode": "const a = 42\nconst b = 132",
+  "description": "引数を二つ受け取り、その最大公約数と最小公倍数を求める関数を作成せよ。",
+  "defaultCode": "",
   "testCases": [],
   "assertions": [],
   "tags": ""

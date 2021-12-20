@@ -1,9 +1,10 @@
 {
   "id": "",
   "title": "条件分岐2",
-  "description": "if文を用いて二つの変数のうち大きい方の値を出力せよ。",
-  "defaultCode": "const a = 32\n const b = 44",
+  "description": "二つの変数を受け取り、大きい方の値を返す関数をif文を用いて作成せよ。",
+  "defaultCode": "",
   "testCases": [],
   "assertions": [],
   "tags": ""
 }
+
